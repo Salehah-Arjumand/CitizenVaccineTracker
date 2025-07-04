@@ -25,8 +25,8 @@ public class Citizen extends Person implements Comparable<Citizen>{
 	public void setDoses(ArrayList<Vaccination> doses) {
 		this.doses = doses;
 	}
-	public Citizen(int iD, String name, String gender, int age, ArrayList<Vaccination> doses) {
-		super(iD, name);
+	public Citizen(int id, String name, String gender, int age, ArrayList<Vaccination> doses) {
+		super(id, name);
 		this.gender = gender;
 		this.age = age;
 		this.doses = doses;

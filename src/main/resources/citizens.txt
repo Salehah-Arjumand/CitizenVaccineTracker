@@ -1,6 +1,0 @@
-Citizen Civil ID Number: 1
-Citizen Name: A
-Citizen Gender: Male
-Citizen Age: 1
-Dosage Details: 
-	 No dosage details available!

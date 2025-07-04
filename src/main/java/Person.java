@@ -3,9 +3,9 @@ public class Person {
 	int ID;
 	String Name;
 	
-	public Person(int iD, String name) {
+	public Person(int id, String name) {
 		super();
-		ID = iD;
+		ID = id;
 		Name = name;
 	}
 
@@ -13,8 +13,8 @@ public class Person {
 		return ID;
 	}
 
-	public void setID(int iD) {
-		ID = iD;
+	public void setID(int id) {
+		ID = id;
 	}
 
 	public String getName() {

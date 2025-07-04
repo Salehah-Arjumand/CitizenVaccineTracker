@@ -3,8 +3,8 @@ public class HealthProfessional extends Person{
 	
 	int experience;
 
-	public HealthProfessional(int iD, String name, int experience) {
-		super(iD, name);
+	public HealthProfessional(int id, String name, int experience) {
+		super(id, name);
 		this.experience = experience;
 	}
 
